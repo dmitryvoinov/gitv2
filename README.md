@@ -19,12 +19,11 @@ Warc-файлы могут превышать ограничения GitHub по
 ## drobyshev.com.warc.gz
 
 Archive Ready data:
-Accessibility 54% 
-Cohesion 74% 
-Metadata 75% 
-Standards Compliance 76%
-
-Overall 70%
+- Accessibility 54% 
+- Cohesion 74% 
+- Metadata 75% 
+- Standards Compliance 76%
+- Overall 70%
 
 
 
@@ -56,12 +55,11 @@ Overall 70%
 
 Archive Ready data:
 
-Accessibility 45% 
-Cohesion 100% 
-Metadata 75% 
-Standards Compliance 62%
-
-Overall 70%
+- Accessibility 45% 
+- Cohesion 100% 
+- Metadata 75% 
+- Standards Compliance 62%
+- Overall 70%
 
 
 |mimes                           |files|size      |share   |
@@ -89,12 +87,11 @@ Overall 70%
 ## romanshmidt.com.warc.gz
 
 Archive Ready data:
-Accessibility 58% 
-Cohesion 100% 
-Metadata 75% 
-Standards Compliance 55%
-
-Overall 72%
+- Accessibility 58% 
+- Cohesion 100% 
+- Metadata 75% 
+- Standards Compliance 55%
+- Overall 72%
 
 |mimes                     |files|size      |share   |
 |--------------------------|-----|----------|--------|
@@ -118,12 +115,11 @@ Overall 72%
 
 Archive Ready data:
 
-Accessibility 33% 
-Cohesion 4% 
-Metadata 100% 
-Standards Compliance 75%
-
-Overall 53%
+- Accessibility 33% 
+- Cohesion 4% 
+- Metadata 100% 
+- Standards Compliance 75%
+- Overall 53%
 
 
 |mimes                            |files|size      |share   |
