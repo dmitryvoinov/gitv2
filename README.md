@@ -2,10 +2,10 @@
 ## HSE DH 22-24
 
 В этом проекте мы рассматривали 4 сайта фотографов, которые удалось успешно скачать с помощью wpull: 
-1. drobyshev.com
-2. fritzvonderschulenburg.co.uk
-3. romanshmidt.com
-4. scottconarroe.com
+1. [drobyshev.com](https://www.drobyshev.com)
+2. [fritzvonderschulenburg.co.uk](https://www.fritzvonderschulenburg.co.uk.com)
+3. [romanshmidt.com](https://www.romanshmidt.com)
+4. [scottconarroe.com](https://www.scottconarroe.com)
 
 Warc-файлы могут превышать ограничения GitHub по размеру загружаемых данных, потому архивы выложены по [ссылке](https://www.dropbox.com/scl/fo/msttrzm5eirajemi74opt/h?rlkey=lreydd5msqei91pizk0eb8qy5&dl=0).
 
